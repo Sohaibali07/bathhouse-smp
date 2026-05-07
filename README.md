@@ -49,9 +49,9 @@ sudo apt update && sudo apt install rofi
 sudo pacman -S rofi  
 ```
 # some external configs i used :
-✦ for my picom cofig i used a slightly altered version of @SXSLVT picom config
+✦ for my picom cofig i used a slightly altered version of [@SXSLVT](https://github.com/SXSLVT) picom config
 
-✦ for my nordic theme in awesome window manager i used @hmix nordic theme
+✦ for my nordic theme in awesome window manager i used [@hmix](https://github.com/hmix) nordic theme
 
 https://github.com/hmix/awesome-wm-nord-theme
 
