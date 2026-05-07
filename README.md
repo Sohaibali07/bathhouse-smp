@@ -2,4 +2,4 @@
 this is the awesome window manager setup on linux mint
 utilizing the nordic theme , hope you like this configuration
 
-[Visit GitHub](https://github.com)
+[ video demonstration ](https://youtu.be/S6Royx2NnmQ?si=JXPZ4K34KODOr5lM)
