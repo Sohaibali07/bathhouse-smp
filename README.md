@@ -1,4 +1,4 @@
-# Soaps awesome window manager setup :
+# Soaps awesome window manager setup 
 _this is the awesome window manager setup on linux mint_
 utilizing the nordic theme , hope you like this configuration 
 
