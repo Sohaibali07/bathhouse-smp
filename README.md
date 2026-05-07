@@ -11,23 +11,23 @@ https://github.com/user-attachments/assets/e1ee9762-59e7-4372-ae8d-5f4a23556b15
 gtk 3 applicatons , and mouse cursors etc.
 
 ✦ for Debian/ubuntu:
-
+```
 sudo apt update && sudo apt install lxappearance  
-
+```
 ✦ for arch linux :
-
+```
 sudo pacman -S lxappearance  
-
+```
 ★ nitrogen : A x11 wallper setter program 
 
 ✦ for Debian/ubuntu:
-
+```
 sudo apt update && sudo apt install nitrogen
-
+```
 ✦ for arch linux :
-
+```
 sudo pacman -S nitrogen  
-
+```
 ★ picom : A x11 compositor for transparicy and window effects 
 
 ✦ for Debian/ubuntu:
@@ -35,10 +35,11 @@ sudo pacman -S nitrogen
 sudo apt update && sudo apt install picom
 ```
 ✦ for arch linux :
-
-# come 
-
+```
 sudo pacman -S picom  
+```
+
+
 
 
 
