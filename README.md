@@ -1,6 +1,7 @@
 # ___Soaps awesome window manager setup___
 awesome wm is an amazing window manager on x11, its very user-friendly and have a lot of features that make it really great like a 
 pre built: bar , right-click menu , windows decorations etc.
+
 _this is my awesome wm configuration so i hope you'll like it_
 
 # installation :
