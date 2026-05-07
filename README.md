@@ -1,2 +1,3 @@
 # bathhouse-smp
-# new minecraft smp maintained by soap <3
+new minecraft smp maintained by soap <3
+enjoy
