@@ -17,7 +17,7 @@ sudo pacman -S awesome
 ```
 • for cloning this repository:
 ```
-https://github.com/Sohaibali07/soaps-awesome-wm-config.git
+git clone https://github.com/Sohaibali07/soaps-awesome-wm-config.git
 ```
 
 ## video demonstration :
