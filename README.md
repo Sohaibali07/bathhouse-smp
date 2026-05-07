@@ -38,6 +38,16 @@ sudo apt update && sudo apt install picom
 ```
 sudo pacman -S picom  
 ```
+★ rofi : A x11 application runner 
+
+✦ for Debian/ubuntu:
+```
+sudo apt update && sudo apt install rofi
+```
+✦ for arch linux :
+```
+sudo pacman -S rofi  
+```
 # some external configs i used :
 ✦ for my picom cofig i used a slightly altered version of @SXSLVT picom config
 
