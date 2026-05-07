@@ -3,6 +3,16 @@ _this is the awesome window manager setup on linux mint_
 utilizing the nordic theme , hope you like this configuration 
 
 # installation :
+★ awesome wm: The x11 window manager we are using here
+
+✦ for Debian/ubuntu:
+```
+sudo apt update && sudo apt install awesome awesome-extra
+```
+✦ for arch linux :
+```
+sudo pacman -S awesome awesome-extra  
+```
 
 ## video demonstration :
 
