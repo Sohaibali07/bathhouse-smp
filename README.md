@@ -83,6 +83,7 @@ icon pack : https://www.gnome-look.org/p/1166289/
 
 ✦ rofi theme i used :
 
+theme:
 https://github.com/newmanls/rofi-themes-collection
 
 
