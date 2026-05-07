@@ -31,10 +31,12 @@ sudo pacman -S nitrogen
 ★ picom : A x11 compositor for transparicy and window effects 
 
 ✦ for Debian/ubuntu:
-
+```
 sudo apt update && sudo apt install picom
-
+```
 ✦ for arch linux :
+
+# come 
 
 sudo pacman -S picom  
 
