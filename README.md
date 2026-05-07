@@ -45,8 +45,11 @@ sudo pacman -S picom
 https://github.com/hmix/awesome-wm-nord-theme
 
 ✦ for mt gtk theme and cursor i used
+
 gtk theme : https://www.opendesktop.org/p/1267246/
+
 cursor : https://www.opendesktop.org/p/1662218/
+
 icon pack : https://www.gnome-look.org/p/1166289/
 
 
