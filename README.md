@@ -42,6 +42,7 @@ sudo pacman -S picom
 ✦ for my picom cofig i used a slightly altered version of @SXSLVT picom config
 
 ✦ for my nordic theme in awesome window manager i used @hmix nordic theme
+
 https://github.com/hmix/awesome-wm-nord-theme
 
 ✦ for mt gtk theme and cursor i used
