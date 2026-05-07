@@ -13,6 +13,10 @@ sudo apt update && sudo apt install awesome awesome-extra
 ```
 sudo pacman -S awesome 
 ```
+• for cloning this repository:
+```
+
+```
 
 ## video demonstration :
 
