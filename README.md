@@ -20,6 +20,7 @@ sudo pacman -S awesome
 git clone https://github.com/Sohaibali07/soaps-awesome-wm-config.git
 ```
 • for making the config directories 
+
 picom: 
 ```
 mkdir -p ~/.config/awesome/
