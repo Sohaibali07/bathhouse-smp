@@ -21,11 +21,11 @@ git clone https://github.com/Sohaibali07/soaps-awesome-wm-config.git
 ```
 • for making the config directories 
 
-picom: 
+awesome wm: 
 ```
 mkdir -p ~/.config/awesome/
 ```
-awesome window manager:
+picom:
 ```
 mkdir -p ~/.config/picom/
 ```
