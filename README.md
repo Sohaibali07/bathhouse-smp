@@ -1,4 +1,4 @@
-![Alt text](https://github.com/Sohaibali07/soaps-awesome-wm-config/tree/f41c6a0622c514cf941609ccd89604cead03e19d/Awesome_logo)
+
 # ___Soaps awesome window manager setup___
 [awesome wm](https://awesomewm.org/) is an amazing window manager on x11, its very user-friendly and have a lot of features that make it really great like a 
 pre built: bar , right-click menu , windows decorations etc.
